@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "babel-node index.js"
   },
-  "author": "",
+  "author": "Edmond Cheng",
   "license": "ISC",
   "devDependencies": {
     "moment": "^2.17.1",
